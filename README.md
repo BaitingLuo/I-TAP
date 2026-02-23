@@ -1,1 +1,1 @@
-# In-context-Planning-with-RQ-VAE
+# In‑Context Planning with Latent Temporal Abstractions
